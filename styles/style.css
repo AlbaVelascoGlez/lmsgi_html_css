@@ -96,3 +96,46 @@
 .font-style-italic{
   font-style: italic;
 }
+/* Ejercicio css-05 */
+.main-background{
+  background-color: #d4dadd;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title-style{
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 15px;
+}
+.subtitle-style{
+  padding: 5px;
+  background-color: gray;
+  color: white;
+  font-size: 25px;
+}
+
+.image-container {
+  display: flex;
+  float: left;
+}
+
+.image-caption{
+font-size: 15px;
+color: lightgoldenrodyellow;
+margin-left: 10px;
+}
+.text-red{
+  color: red;
+  font-style: italic;
+}
+
+.text-style{
+position: relative;
+top: 50px;
+right: 120px;
+text-indent: 20px;
+}
+.article-formatted{
+  height: auto;
+  min-height: 200px;
+}
