@@ -32,7 +32,36 @@
 .overline {
   border-top: 1px solid black;
   display: inline-block;
-line-height: 0.20px;
+  line-height: 0.20px;
   z-index: 1;
 }
 
+/* Ejercicio css-03 */
+.text-size-small{
+  font-size: 12px;
+}
+.text-size-regular{
+  font-size: 30px;
+}
+.text-size-large{
+  font-size: 50px;
+}
+.custom-text-blue{
+  color: blue;
+  position: relative;
+  top: 30px;
+}
+.custom-text-green{
+  position: relative;
+  color:forestgreen;
+  bottom: 10px;
+}
+
+.custom-height-up{
+  position: relative;
+  bottom: 10px;
+}
+.custom-height-down{
+  position: relative;
+  top: 10px;
+}
