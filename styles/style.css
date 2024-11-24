@@ -65,3 +65,34 @@
   position: relative;
   top: 10px;
 }
+
+/* Ejercicio css-04 */
+.main-container{
+  background-color: #d4dadd;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title-center{
+  text-align: center;
+  text-transform: uppercase;
+  color: #343b3f;
+}
+.title-background{
+  background-color: #7a919e;
+  color: #36363c99;
+  text-decoration: underline;
+}
+.subtitle-background{
+  background-color:#99a9b3;
+  color: #5f6f79;
+}
+.text-background{
+  background-color: #b5c2ca;
+}
+.background-light{
+  background-color: white;
+  text-align: end;
+  font-weight: bold;
+}
+.font-style-italic{
+  font-style: italic;
+}
