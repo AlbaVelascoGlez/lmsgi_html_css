@@ -194,3 +194,34 @@ background-color: #4eb7eb;
 .poem-exercise-6{
   font-style: italic;
 }
+
+/* Ejercicio css-07 */
+.main-exercise-7{
+  background-color: #f7f3f3;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 0px;
+}
+.title-exercise-7{
+  text-align: center;
+  text-transform: uppercase;
+}
+.subtitle-exercise-7{
+  background-color: #989991;
+  color: red;
+  font-size: 20px;
+}
+.text-exercise-7{
+  background-color: #d3d3d3;
+}
+.personal-data{
+  color: blue;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.laboral-data{
+  color: green;
+  font-weight: 500;
+}
+.author-data{
+  margin-top: 20px;
+}
