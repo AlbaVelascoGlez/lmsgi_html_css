@@ -225,3 +225,43 @@ background-color: #4eb7eb;
 .author-data{
   margin-top: 20px;
 }
+
+/* Ejercicio css-08 */
+.title-comic-sans{
+  text-align: end;
+}
+.page-body{
+  background-color: #a5d0e6;
+}
+.page-body p {
+  text-indent: 40px;
+  text-align: justify;
+  width: 100%;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.comic-sans-word{
+  font-family: 'Comic Sans MS', cursive;
+  font-weight: 600;
+  color: red;
+}
+.text-orange{
+  color: orange;
+}
+
+.text-dark-orange{
+  color: #d56d24;
+  font-weight: 600;
+}
+
+.text-background{
+  background-color: #f7f3f3;
+  font-style: italic;
+  color: #718aae;
+}
+
+.uppercase-text{
+  text-transform: uppercase;
+  margin: 30px 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
